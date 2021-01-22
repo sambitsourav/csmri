@@ -1,0 +1,4 @@
+websocket
+simplejson
+websocket-client
+mysql-connector-python-rf

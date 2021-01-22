@@ -1,0 +1,12 @@
+name: csmri
+channels:
+  - default
+dependencies:
+  - python=3.8.5
+  - pandas=1.1.0
+  - pip
+  - pip:
+      - websocket
+      - simplejson
+      - websocket-client
+      - mysql-connector-python-rf
